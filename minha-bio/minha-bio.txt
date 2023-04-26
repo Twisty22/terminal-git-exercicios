@@ -1,1 +1,4 @@
-bla bla
+Meu nome é Diego Bonani, eu tenho 19 anos sou do interior de São Paulo e estou morando no 
+Rio de Janeiro. Morei 4 anos na Argentina terminei o ensino médio lá e comecei o curso de 
+engenharia da computação na UBA, fiz um ano de curso e voltei para o Brasil.
+Bla Bla.
